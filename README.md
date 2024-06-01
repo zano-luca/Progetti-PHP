@@ -8,7 +8,7 @@ Una volta scaricato il progetto, apri il terminale nella directory del progetto 
 
 ```bash
 composer install
-```bash
+```
 
 Il progetto offre le seguenti cinque funzionalità:
 
