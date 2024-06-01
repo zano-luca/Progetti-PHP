@@ -19,7 +19,6 @@ Inserisci i colori degli anelli di una resistenza
 Ottieni il valore corrispondente della resistenza
 - Calcolo della distanza di Hamming:
 Inserisci due stringhe di uguale lunghezza
-- Calcola la distanza di Hamming (numero di posizioni con simboli differenti)
 - Operazioni su numeri:
 Esegui operazioni matematiche su numeri forniti dall'utente
 - Stampa di biglietti:
